@@ -14,9 +14,6 @@ Open source LLMs like *Llama-2 7B chat* are useful for applications that involve
 
 Download the notebook [here](https://github.com/Sripal1/Fine-tuning-LLMs/blob/main/Fine_tune_LLMs_on_custom_data.ipynb) to run it locally or click [here](https://colab.research.google.com/drive/1X51XC2phnD1epk5c1w9J0GnUO0BmrTRM?usp=sharing) to load it in Google Colab. Then, run all the cells sequentially to get your fine-tuned model!
 
-Since Llama-2 is a gated model, do the following steps to get access to the model:
-
-  1. Create an account in HuggingFace [here](https://huggingface.co/join)
-  2. Request access to the [Llama-2-7b-chat model here](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf).
+ Request access to the [Llama-2-7b-chat model here](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf).
 
 
